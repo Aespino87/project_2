@@ -53,6 +53,12 @@ h3 {
     margin: 15px auto;
 }
 
+h4 {
+    color: #054905;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
 
 
 /*=== Content Styling ===== */
@@ -73,7 +79,6 @@ body {
 
 .project {
     border: 2px #d7d7d7 solid;
-    display: inline-block;
 }
 
 .project:hover {
